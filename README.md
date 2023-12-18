@@ -37,7 +37,7 @@
 Использование программы
 Для запуска программы необходимо:
 
-Склонировать репозиторий с помощью команды git clone https://github.com/your-username/system-engineering.git
+Склонировать репозиторий с помощью команды git clone https://github.com/hm431/SistemotechProject.git
 Перейти в папку с проектом с помощью команды cd system-engineering
 Установить необходимые зависимости с помощью команды npm install
 Запустить локальный сервер с помощью команды npm start
